@@ -2,6 +2,7 @@ ArticlesClassification
 ======================
 
 Classification
+
   *) Bài toán phân lớp theo chủ đề sử dụng thuật toán Naïve Bayes
   *) Độ chính xác đạt được ~80%
   *) DATA:
