@@ -13,4 +13,5 @@ Classification
       + " 1_DATA_Inference_Input "  : dữ liệu dùng cần phân lớp - các bài báo
       + " 1_DATA_Inference_Output " : dữ liệu sau khi được phân lớp - các bài báo được chia vào các lớp cụ thể
   *) Lib:
-      + Công cụ đánh dấu từ
+      + Công cụ đánh dấu từ " tagger "
+      + " jsoup "
