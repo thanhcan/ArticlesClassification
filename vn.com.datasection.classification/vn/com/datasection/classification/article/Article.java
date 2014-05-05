@@ -94,7 +94,7 @@ public class Article extends ArticleClass {
 		for (String keyword : listKeywords) {
 			for (int i = 0; i < this.listKeywords.get(keyword); i++)
 				probability *= classArticle.getListBetsKeyword().get(keyword);
-				probability /= 100;
+				//probability /= 100;
 		}
 		
 		probability *= classArticle.getPCi();
